@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Nicole Peng
 
--🌱 Full Stack Web & Mobile Developer
+- 🌱 Full Stack Web & Mobile Developer
+- <img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
 **NicoleQueen/NicoleQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
