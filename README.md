@@ -10,7 +10,15 @@
 --------------
 
 ### Technologies && Tools:
-- *I am super passionate for new technologies!* 
+:shell:  :dizzy: *I am super passionate for new technologies!*  :dizzy: :shell:
+<ul>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoXS0EJ92SvZVt4R4nT_68NO8Nc8aovBj2iQ&usqp=CAU" width="40" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2s7g5rKVCRjxH72WcRB-ZESXP1AoU4fFZCA&usqp=CAU" width="40" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKREpHf4ZanJaEvnJT3dLrTKDTgZ8A5YhZug&usqp=CAU" width="40" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS93aSLf-QNrKGFotNIFcMXChCBRXCzymQChg&usqp=CAU" width="40" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU" width="40" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZRG-rP0OJa3v52XemHiYXQqQOvTV3zDnyeA&usqp=CAU" width="40" height="40">
+</ul>
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=NicoleQueen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
