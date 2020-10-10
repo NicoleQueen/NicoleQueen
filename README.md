@@ -7,6 +7,11 @@
 
 - 🌱 Full Stack Web & Mobile Developer 🌱
 - <p style="color:pink">🍏 Personal Blog :ledger::</p> :sparkling_heart: https://nicolequeen.github.io/ :sparkling_heart:
+--------------
+
+### Technologies && Tools:
+- *I am super passionate for new technologies!* 
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=NicoleQueen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
