@@ -1,8 +1,9 @@
 ### Hi there 👋
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIsxnDWykg3G252BSZ09kdpp7PdCsc1xHdYQ&usqp=CAU" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 ### Nicole Peng
 
 - 🌱 Full Stack Web & Mobile Developer 🌱
-- <span>❤️</span> https://nicolequeen.github.io/ <span>❤️</span>
+- <span color="pink">❤️</span> https://nicolequeen.github.io/ <span>❤️</span>
 
 <!--
 **NicoleQueen/NicoleQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
