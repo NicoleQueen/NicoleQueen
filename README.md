@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIsxnDWykg3G252BSZ09kdpp7PdCsc1xHdYQ&usqp=CAU" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 ### Nicole Peng
+<img src="https://github-readme-stats.vercel.app/api?username=NicoleQueen&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
+
 
 - 🌱 Full Stack Web & Mobile Developer 🌱
 - <span style="color:pink">❤️</span> https://nicolequeen.github.io/ <span>❤️</span>
