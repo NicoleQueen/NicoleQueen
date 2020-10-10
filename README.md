@@ -5,23 +5,23 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NicoleQueen&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
 
-- 🌱 'Full Stack Web' & 'Mobile Developer' 🌱
-- <p style="color:pink">🍏 'Personal Blog' :ledger::</p> :sparkling_heart: https://nicolequeen.github.io/ :sparkling_heart:
+- 🌱 Full Stack Web && Mobile Developer 🌱
+- <p style="color:pink">🍏 Personal Blog :ledger: :</p> :sparkling_heart: https://nicolequeen.github.io/ :sparkling_heart:
 --------------
 
 ### Technologies && Tools:
 :shell:  :dizzy: *I am super passionate for new technologies!*  :dizzy: :shell:
 <ul>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoXS0EJ92SvZVt4R4nT_68NO8Nc8aovBj2iQ&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2s7g5rKVCRjxH72WcRB-ZESXP1AoU4fFZCA&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKREpHf4ZanJaEvnJT3dLrTKDTgZ8A5YhZug&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS93aSLf-QNrKGFotNIFcMXChCBRXCzymQChg&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZRG-rP0OJa3v52XemHiYXQqQOvTV3zDnyeA&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROG8j7es3DqRFFFY1vfydRcwFccby0WaqPEA&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTHazThKtmj9LowIhhurCFCv8zwBUznGbMsA&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyuysCVANB23xetA8P-oa2AK1Uo6yMEpcNGQ&usqp=CAU" width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBuUI-msGueh-e5_zkA4aZfkpn-3cfrh1Euw&usqp=CAU" width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoXS0EJ92SvZVt4R4nT_68NO8Nc8aovBj2iQ&usqp=CAU" alt=”Rails“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2s7g5rKVCRjxH72WcRB-ZESXP1AoU4fFZCA&usqp=CAU" alt=”React“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKREpHf4ZanJaEvnJT3dLrTKDTgZ8A5YhZug&usqp=CAU" alt=”Android“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS93aSLf-QNrKGFotNIFcMXChCBRXCzymQChg&usqp=CAU" alt=”Git“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU" alt=”PostgreSQL“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZRG-rP0OJa3v52XemHiYXQqQOvTV3zDnyeA&usqp=CAU" alt=”WeChat minni Program“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROG8j7es3DqRFFFY1vfydRcwFccby0WaqPEA&usqp=CAU" alt=”Postman“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTHazThKtmj9LowIhhurCFCv8zwBUznGbMsA&usqp=CAU" alt=”Bootstrap“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyuysCVANB23xetA8P-oa2AK1Uo6yMEpcNGQ&usqp=CAU" alt=”HTML“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBuUI-msGueh-e5_zkA4aZfkpn-3cfrh1Euw&usqp=CAU" alt=”CSS“ width="39" height="39">
 </ul>
 
 
