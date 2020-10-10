@@ -3,7 +3,7 @@
 ### Nicole Peng
 
 - 🌱 Full Stack Web & Mobile Developer 🌱
-- <span color="pink">❤️</span> https://nicolequeen.github.io/ <span>❤️</span>
+- <span style="color:pink">❤️</span> https://nicolequeen.github.io/ <span>❤️</span>
 
 <!--
 **NicoleQueen/NicoleQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
