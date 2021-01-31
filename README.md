@@ -6,7 +6,7 @@
 
 
 - 🌱 Full Stack Web && Mobile Developer 🌱
-- <p style="color:pink">🍏 Personal Blog :ledger: :</p> :sparkling_heart: https://nicolequeen.github.io/ :sparkling_heart:
+- <p style="color:pink">🍏 Personal Blog :ledger: :</p> :sparkling_heart: https://medium.com/@nicolepeng99 :sparkling_heart:
 --------------
 
 ### Technologies && Tools:
